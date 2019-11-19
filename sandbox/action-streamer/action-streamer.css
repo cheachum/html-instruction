@@ -1,0 +1,37 @@
+body {
+    background-image: url('russelw.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:50% 50%;
+    background-blend-mode:luminosity;
+  }
+  h1{font-family: "Palatino Linotype", "Book Antiqua";
+    text-shadow:4px 4px 8px gray;
+    text-align:center;
+    font-size: 60px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color:#59ff2b;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+  }
+  h2{
+    font-family: "Palatino Linotype", "Book Antiqua";
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    text-align:center;
+    font-size: 25px;
+    letter-spacing: 1.4px;
+    word-spacing: 0.2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+  }

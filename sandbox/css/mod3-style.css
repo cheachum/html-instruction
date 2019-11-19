@@ -1,0 +1,15 @@
+ h1{ 
+        border-width:1px; border-style: groove !important;
+        background-color:lightgray;
+        font-family:Arial; font-size:24px;
+        margin-left:24px;
+    }
+    h2{ 
+        border-width:1px; border-style: dashed;
+        background-color:lightgray;
+        font-style: italic; font-family:"Comic Sans Ms"; font-size:18px;
+        margin-left:24px;
+    }
+    p{
+        font-family: Arial; font-size: 14px; margin-left: 24px;
+    }
